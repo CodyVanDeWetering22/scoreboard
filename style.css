@@ -1,0 +1,11 @@
+.image {
+    background-image: url(https://acis.com/wp-content/uploads/2015/08/wembley6.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.primary {
+    color: rgba(0, 0, 255, 0.208);
+}
